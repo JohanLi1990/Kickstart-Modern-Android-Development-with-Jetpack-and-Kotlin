@@ -19,6 +19,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.codingtroops.restaurantsapp.ui.theme.RestaurantsAppTheme
 
+@Preview
 @Composable
 fun RestaurantsScreen() {
     LazyColumn(
